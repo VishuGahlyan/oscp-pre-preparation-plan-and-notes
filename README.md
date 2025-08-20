@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shreyaschavhan.oscp-pre-preparation-plan-and-notes&left_text=Views)
 
 `Note: These are my notes for personal reference!`
 
@@ -6,8 +5,8 @@
 
 
 
-> - `21st March 2022` : Start Date
-> - `19th Sept 2022` : Expected End Date
+> - `21st March 2025` : Start Date
+> - `19th Sept 2025` : Expected End Date
 > - `180 days` : Goal
 
 ---
